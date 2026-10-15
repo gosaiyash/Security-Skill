@@ -12,7 +12,7 @@ These skills transition AI coding assistants from general-purpose assistants int
 
 ---
 
-## 🛡️ Skills Included
+## Skills Included
 
 This repository contains three specialized, standards-aligned skill packages:
 
@@ -24,7 +24,7 @@ This repository contains three specialized, standards-aligned skill packages:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 Security-Skill/
@@ -59,7 +59,7 @@ Security-Skill/
 
 ---
 
-## 🔒 Core Non-Negotiable Guardrails
+## Core Non-Negotiable Guardrails
 
 Every skill enforces strict operational guardrails:
 
@@ -73,7 +73,7 @@ Every skill enforces strict operational guardrails:
 
 ---
 
-## 🚀 Installation & Usage
+## Installation & Usage
 
 ### 1. In Google Antigravity (AGY)
 
@@ -115,7 +115,7 @@ cp -r application-security .claude/skills/
 
 ---
 
-## 🧪 Validating Packages
+## Validating Packages
 
 Each skill includes an automated validation script ensuring strict structural and frontmatter compliance:
 
@@ -132,6 +132,6 @@ python web-app-security/scripts/validate_skill.py web-app-security
 
 ---
 
-## 📄 License
+## License
 
 This repository is licensed under the [MIT License](LICENSE).
